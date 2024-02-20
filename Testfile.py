@@ -2,7 +2,7 @@ import json
 from elsapy.elsclient import ElsClient
 from elsapy.elssearch import ElsSearch
 
-print("this is chatgpttest")
+print("this is Testfile")
 
 with open('config.json', 'r') as f:
   data = json.load(f)
