@@ -52,3 +52,8 @@
 2024-02-20 04:48:12,084 - elsapy.elssearch - INFO - Module loaded.
 2024-02-20 04:48:12,639 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=KEY%28%22human%22+AND+%22Animal%22%29+OR+%28Key%28%22Kahba%22+OR+%22Scharmuta%22+Or+%22Hoe%22%29%29
 2024-02-20 04:48:13,457 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-20 05:50:43,237 - elsapy.elsclient - INFO - Module loaded.
+2024-02-20 05:50:44,784 - elsapy.utils - INFO - Module loaded.
+2024-02-20 05:50:44,784 - elsapy.elssearch - INFO - Module loaded.
+2024-02-20 05:50:44,785 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=KEY%28%22human%22+AND+%22Animal%22%29+OR+Key%28%22Kahba%22+OR+%22Scharmuta%22+Or+%22Hoe%22%29
+2024-02-20 05:50:47,204 - elsapy.utils - INFO - Converting prism:coverDate
