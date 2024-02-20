@@ -1,0 +1,105 @@
+2024-02-16 00:00:32,279 - elsapy.elsclient - INFO - Module loaded.
+2024-02-16 00:00:32,749 - elsapy.utils - INFO - Module loaded.
+2024-02-16 00:00:32,749 - elsapy.elssearch - INFO - Module loaded.
+2024-02-16 00:00:33,280 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28humans%29+AND+TITLE-ABS-KEY%28health%29+AND+AFFIL%28New+York%29+AND+PUBYEAR+%3E+2020
+2024-02-16 00:00:34,275 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-16 00:00:50,499 - elsapy.elsclient - INFO - Module loaded.
+2024-02-16 00:00:50,955 - elsapy.utils - INFO - Module loaded.
+2024-02-16 00:00:50,955 - elsapy.elssearch - INFO - Module loaded.
+2024-02-16 00:00:51,500 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28humans%29+AND+TITLE-ABS-KEY%28health%29+AND+AFFIL%28New+York%29+AND+PUBYEAR+%3E+2020+AND+count%3D30
+2024-02-16 00:00:52,540 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-16 00:02:23,025 - elsapy.elsclient - INFO - Module loaded.
+2024-02-16 00:02:23,501 - elsapy.utils - INFO - Module loaded.
+2024-02-16 00:02:23,501 - elsapy.elssearch - INFO - Module loaded.
+2024-02-16 00:02:43,678 - elsapy.elsclient - INFO - Module loaded.
+2024-02-16 00:02:44,125 - elsapy.utils - INFO - Module loaded.
+2024-02-16 00:02:44,126 - elsapy.elssearch - INFO - Module loaded.
+2024-02-16 00:02:44,678 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28humans%29+AND+TITLE-ABS-KEY%28health%29+AND+AFFIL%28New+York%29+AND+PUBYEAR+%3E+2020+AND+count%3D30
+2024-02-16 00:02:46,218 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-16 00:04:40,277 - elsapy.elsclient - INFO - Module loaded.
+2024-02-16 00:04:40,730 - elsapy.utils - INFO - Module loaded.
+2024-02-16 00:04:40,730 - elsapy.elssearch - INFO - Module loaded.
+2024-02-16 00:04:47,877 - elsapy.elsclient - INFO - Module loaded.
+2024-02-16 00:04:48,331 - elsapy.utils - INFO - Module loaded.
+2024-02-16 00:04:48,331 - elsapy.elssearch - INFO - Module loaded.
+2024-02-16 00:04:48,878 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28humans%29+AND+TITLE-ABS-KEY%28health%29+AND+AFFIL%28New+York%29+AND+PUBYEAR+%3E+2020+AND+count%3D30
+2024-02-16 00:04:50,074 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-16 00:07:47,210 - elsapy.elsclient - INFO - Module loaded.
+2024-02-16 00:07:47,660 - elsapy.utils - INFO - Module loaded.
+2024-02-16 00:07:47,660 - elsapy.elssearch - INFO - Module loaded.
+2024-02-16 00:07:48,212 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28humans%29+AND+TITLE-ABS-KEY%28health%29+AND+AFFIL%28New+York%29+AND+PUBYEAR+%3E+2020+AND+count%3D30
+2024-02-16 00:07:49,207 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-16 00:11:05,786 - elsapy.elsclient - INFO - Module loaded.
+2024-02-16 00:11:06,247 - elsapy.utils - INFO - Module loaded.
+2024-02-16 00:11:06,247 - elsapy.elssearch - INFO - Module loaded.
+2024-02-16 00:11:06,787 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28humans%29+AND+TITLE-ABS-KEY%28health%29+AND+AFFIL%28New+York%29+AND+PUBYEAR+%3E+2020+AND+count%3D30
+2024-02-16 00:11:08,141 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-16 00:17:44,845 - elsapy.elsclient - INFO - Module loaded.
+2024-02-16 00:17:45,328 - elsapy.utils - INFO - Module loaded.
+2024-02-16 00:17:45,328 - elsapy.elssearch - INFO - Module loaded.
+2024-02-16 00:19:11,726 - elsapy.elsclient - INFO - Module loaded.
+2024-02-16 00:19:12,224 - elsapy.utils - INFO - Module loaded.
+2024-02-16 00:19:12,224 - elsapy.elssearch - INFO - Module loaded.
+2024-02-16 00:19:12,728 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28humans%29+AND+TITLE-ABS-KEY%28health%29+AND+AFFIL%28New+York%29+AND+PUBYEAR+%3E+2020+AND+count%3D30
+2024-02-16 00:19:13,944 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-16 00:23:19,836 - elsapy.elsclient - INFO - Module loaded.
+2024-02-16 00:23:20,270 - elsapy.utils - INFO - Module loaded.
+2024-02-16 00:23:20,270 - elsapy.elssearch - INFO - Module loaded.
+2024-02-16 00:23:20,837 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=%28AFFIL%28%22New+York%22%29+AND+KEY%28%22human%22%29+AND+TITLE%28%22humans%22%29+AND+ABSTRACT%28%22health%22%29%29
+2024-02-16 00:24:22,821 - elsapy.elsclient - INFO - Module loaded.
+2024-02-16 00:24:23,263 - elsapy.utils - INFO - Module loaded.
+2024-02-16 00:24:23,263 - elsapy.elssearch - INFO - Module loaded.
+2024-02-16 00:24:23,823 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=%28AFFIL%28%22New+York%22%29+AND+KEY%28%22human%22%29+AND+TITLE%28%22humans%22%29+AND+ABSTRACT%28%22health%22%29%29
+2024-02-16 00:26:56,506 - elsapy.elsclient - INFO - Module loaded.
+2024-02-16 00:26:56,963 - elsapy.utils - INFO - Module loaded.
+2024-02-16 00:26:56,963 - elsapy.elssearch - INFO - Module loaded.
+2024-02-16 00:26:57,507 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=%28AFFIL%28%22New+York%22%29+AND+KEY%28%22human%22%29+AND+TITLE%28%22humans%22%29+AND+ABS%28%22health%22%29%29
+2024-02-16 00:26:58,615 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-16 00:27:39,868 - elsapy.elsclient - INFO - Module loaded.
+2024-02-16 00:27:40,337 - elsapy.utils - INFO - Module loaded.
+2024-02-16 00:27:40,337 - elsapy.elssearch - INFO - Module loaded.
+2024-02-16 00:27:40,869 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=%28AFFIL%28%22New+York%22%29+AND+KEY%28%22human%22%29+AND+TITLE%28%22humans%22%29+AND+abs%28%22health%22%29%29
+2024-02-16 00:27:42,335 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-16 00:29:14,347 - elsapy.elsclient - INFO - Module loaded.
+2024-02-16 00:29:14,803 - elsapy.utils - INFO - Module loaded.
+2024-02-16 00:29:14,804 - elsapy.elssearch - INFO - Module loaded.
+2024-02-16 00:29:15,348 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=%28AFFIL%28%22New+York%22%29+AND+KEY%28%22human%22%29+AND+TITLE%28%22humans%22%29+AND+abs%28%22health%22%29%29
+2024-02-16 00:34:59,939 - elsapy.elsclient - INFO - Module loaded.
+2024-02-16 00:35:00,371 - elsapy.utils - INFO - Module loaded.
+2024-02-16 00:35:00,372 - elsapy.elssearch - INFO - Module loaded.
+2024-02-16 00:35:00,940 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=%28AFFIL%28%22New+York%22%29+AND+KEY%28%22human%22%29+AND+TITLE%28%22humans%22%29+AND+abs%28%22health%22%29%29
+2024-02-16 00:35:21,845 - elsapy.elsclient - INFO - Module loaded.
+2024-02-16 00:35:22,297 - elsapy.utils - INFO - Module loaded.
+2024-02-16 00:35:22,297 - elsapy.elssearch - INFO - Module loaded.
+2024-02-16 00:35:22,845 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=%28AFFIL%28%22New+York%22%29+AND+KEY%28%22human%22%29+AND+TITLE%28%22humans%22%29+AND+abs%28%22health%22%29%29
+2024-02-16 00:35:23,996 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-16 00:36:44,839 - elsapy.elsclient - INFO - Module loaded.
+2024-02-16 00:36:45,301 - elsapy.utils - INFO - Module loaded.
+2024-02-16 00:36:45,302 - elsapy.elssearch - INFO - Module loaded.
+2024-02-16 00:36:45,840 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=%28AFFIL%28%22New+York%22%29+AND+KEY%28%22human%22%29+AND+TITLE%28%22humans%22%29+AND+abs%28%22health%22%29%29
+2024-02-16 00:36:46,863 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-16 00:46:57,682 - elsapy.elsclient - INFO - Module loaded.
+2024-02-16 00:46:58,179 - elsapy.utils - INFO - Module loaded.
+2024-02-16 00:46:58,179 - elsapy.elssearch - INFO - Module loaded.
+2024-02-16 00:46:58,683 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=%28AFFIL%28%22New+York%22%29+AND+KEY%28%22human%22%29+AND+TITLE%28%22humans%22%29+AND+abs%28%22health%22%29%29
+2024-02-16 00:46:59,821 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-16 06:43:44,899 - elsapy.elsclient - INFO - Module loaded.
+2024-02-16 06:43:46,784 - elsapy.utils - INFO - Module loaded.
+2024-02-16 06:43:46,784 - elsapy.elssearch - INFO - Module loaded.
+2024-02-16 06:43:46,786 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=%28AFFIL%28%22New+York%22%29+AND+KEY%28%22human%22%29+AND+TITLE%28%22humans%22%29+AND+abs%28%22health%22%29%29
+2024-02-16 06:43:48,338 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-16 06:50:49,285 - elsapy.elsclient - INFO - Module loaded.
+2024-02-16 06:50:49,814 - elsapy.utils - INFO - Module loaded.
+2024-02-16 06:50:49,815 - elsapy.elssearch - INFO - Module loaded.
+2024-02-16 06:50:50,286 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=%28AFFIL%28%22New+York%22%29+AND+KEY%28%22human%22%29+AND+TITLE%28%22humans%22%29+AND+abs%28%22health%22%29%29
+2024-02-16 06:50:51,398 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-16 06:52:37,759 - elsapy.elsclient - INFO - Module loaded.
+2024-02-16 06:52:38,279 - elsapy.utils - INFO - Module loaded.
+2024-02-16 06:52:38,280 - elsapy.elssearch - INFO - Module loaded.
+2024-02-16 06:52:38,759 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AFFIL%28%22New+York%22%29+AND+KEY%28%22human%22%29+AND+TITLE%28%22humans%22%29+AND+abs%28%22health%22%29
+2024-02-16 06:52:39,921 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-16 07:03:42,757 - elsapy.elsclient - INFO - Module loaded.
+2024-02-16 07:03:43,268 - elsapy.utils - INFO - Module loaded.
+2024-02-16 07:03:43,268 - elsapy.elssearch - INFO - Module loaded.
+2024-02-16 07:03:43,758 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AFFIL%28%22New+York%22%29+AND+KEY%28%22human%22%29+AND+TITLE%28%22humans%22%29+AND+abs%28%22health%22%29
+2024-02-16 07:03:45,021 - elsapy.utils - INFO - Converting prism:coverDate

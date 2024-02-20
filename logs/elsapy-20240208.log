@@ -1,0 +1,65 @@
+2024-02-08 01:14:19,128 - elsapy.elsclient - INFO - Module loaded.
+2024-02-08 01:14:20,952 - elsapy.utils - INFO - Module loaded.
+2024-02-08 01:14:20,953 - elsapy.elssearch - INFO - Module loaded.
+2024-02-08 01:14:20,955 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY-AUTH+%28%22global+warming%22+AND+%22David+Betts%22%29
+2024-02-08 01:56:03,399 - elsapy.elsclient - INFO - Module loaded.
+2024-02-08 01:56:04,023 - elsapy.utils - INFO - Module loaded.
+2024-02-08 01:56:04,024 - elsapy.elssearch - INFO - Module loaded.
+2024-02-08 01:56:04,400 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28%22David+Betts%22%29+AND+TITLE-ABS-KEY%28%22land+degradation%22%29
+2024-02-08 01:57:29,493 - elsapy.elsclient - INFO - Module loaded.
+2024-02-08 01:57:29,939 - elsapy.utils - INFO - Module loaded.
+2024-02-08 01:57:29,939 - elsapy.elssearch - INFO - Module loaded.
+2024-02-08 01:57:30,494 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28%22David+Betts%22%29+AND+TITLE-ABS-KEY%28%22land+degradation%22%29
+2024-02-08 01:57:41,820 - elsapy.elsclient - INFO - Module loaded.
+2024-02-08 01:57:42,251 - elsapy.utils - INFO - Module loaded.
+2024-02-08 01:57:42,251 - elsapy.elssearch - INFO - Module loaded.
+2024-02-08 01:57:42,821 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28%22David+Betts%22%29+AND+TITLE-ABS-KEY%28%22land+degradation%22%29
+2024-02-08 01:57:50,220 - elsapy.elsclient - INFO - Module loaded.
+2024-02-08 01:57:50,637 - elsapy.utils - INFO - Module loaded.
+2024-02-08 01:57:50,637 - elsapy.elssearch - INFO - Module loaded.
+2024-02-08 01:57:51,221 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28%22David+Betts%22%29+AND+TITLE-ABS-KEY%28%22land+degradation%22%29
+2024-02-08 01:57:56,880 - elsapy.elsclient - INFO - Module loaded.
+2024-02-08 01:57:57,309 - elsapy.utils - INFO - Module loaded.
+2024-02-08 01:57:57,309 - elsapy.elssearch - INFO - Module loaded.
+2024-02-08 01:57:57,881 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28%22David+Betts%22%29+AND+TITLE-ABS-KEY%28%22land+degradation%22%29
+2024-02-08 01:58:02,115 - elsapy.elsclient - INFO - Module loaded.
+2024-02-08 01:58:02,548 - elsapy.utils - INFO - Module loaded.
+2024-02-08 01:58:02,548 - elsapy.elssearch - INFO - Module loaded.
+2024-02-08 01:58:03,117 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28%22David+Betts%22%29+AND+TITLE-ABS-KEY%28%22land+degradation%22%29
+2024-02-08 02:00:28,564 - elsapy.elsclient - INFO - Module loaded.
+2024-02-08 02:00:29,005 - elsapy.utils - INFO - Module loaded.
+2024-02-08 02:00:29,005 - elsapy.elssearch - INFO - Module loaded.
+2024-02-08 02:00:29,565 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28David+Betts%29+AND+%22land+degradation%22
+2024-02-08 02:00:47,487 - elsapy.elsclient - INFO - Module loaded.
+2024-02-08 02:00:47,959 - elsapy.utils - INFO - Module loaded.
+2024-02-08 02:00:47,960 - elsapy.elssearch - INFO - Module loaded.
+2024-02-08 02:00:48,487 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28David+Betts%29+AND+%22land+degradation%22
+2024-02-08 02:01:02,011 - elsapy.elsclient - INFO - Module loaded.
+2024-02-08 02:01:02,451 - elsapy.utils - INFO - Module loaded.
+2024-02-08 02:01:02,451 - elsapy.elssearch - INFO - Module loaded.
+2024-02-08 02:01:03,013 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28David+Betts%29+AND+%22land+degradation%22
+2024-02-08 02:01:17,055 - elsapy.elsclient - INFO - Module loaded.
+2024-02-08 02:01:17,502 - elsapy.utils - INFO - Module loaded.
+2024-02-08 02:01:17,502 - elsapy.elssearch - INFO - Module loaded.
+2024-02-08 02:01:18,056 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28David+Betts%29+AND+land+degradation
+2024-02-08 02:01:18,884 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-08 02:04:33,902 - elsapy.elsclient - INFO - Module loaded.
+2024-02-08 02:04:34,369 - elsapy.utils - INFO - Module loaded.
+2024-02-08 02:04:34,369 - elsapy.elssearch - INFO - Module loaded.
+2024-02-08 02:04:34,905 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=land+degradation
+2024-02-08 02:04:35,923 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-08 02:12:44,712 - elsapy.elsclient - INFO - Module loaded.
+2024-02-08 02:12:45,159 - elsapy.utils - INFO - Module loaded.
+2024-02-08 02:12:45,159 - elsapy.elssearch - INFO - Module loaded.
+2024-02-08 02:12:45,713 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AUTH%28David+Betts%29+AND+land+degradation
+2024-02-08 02:12:46,240 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-08 02:31:02,884 - elsapy.elsclient - INFO - Module loaded.
+2024-02-08 02:31:03,312 - elsapy.utils - INFO - Module loaded.
+2024-02-08 02:31:03,313 - elsapy.elssearch - INFO - Module loaded.
+2024-02-08 02:31:03,885 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=+land+degradation+AND+AUTH%28David+Betts%29+
+2024-02-08 02:31:04,414 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-08 02:32:07,637 - elsapy.elsclient - INFO - Module loaded.
+2024-02-08 02:32:08,053 - elsapy.utils - INFO - Module loaded.
+2024-02-08 02:32:08,053 - elsapy.elssearch - INFO - Module loaded.
+2024-02-08 02:32:08,638 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=+land+degradation+AND+AUTH%28+Betts%29+
+2024-02-08 02:32:09,539 - elsapy.utils - INFO - Converting prism:coverDate

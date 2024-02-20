@@ -1,0 +1,55 @@
+2024-02-14 03:51:26,880 - elsapy.elsclient - INFO - Module loaded.
+2024-02-14 03:51:28,461 - elsapy.utils - INFO - Module loaded.
+2024-02-14 03:51:28,461 - elsapy.elssearch - INFO - Module loaded.
+2024-02-14 03:51:28,462 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=heart+attack+AND+AUTH%28Betts%29+AND+PUBYEAR+%3E+2020+
+2024-02-14 03:51:29,053 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-14 03:51:59,177 - elsapy.elsclient - INFO - Module loaded.
+2024-02-14 03:51:59,598 - elsapy.utils - INFO - Module loaded.
+2024-02-14 03:51:59,598 - elsapy.elssearch - INFO - Module loaded.
+2024-02-14 03:52:00,178 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=heart+attack+AND+AUTH%28Betts%29+AND+PUBYEAR+%3E+2020+
+2024-02-14 03:52:00,689 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-14 03:59:24,507 - elsapy.elsclient - INFO - Module loaded.
+2024-02-14 03:59:24,940 - elsapy.utils - INFO - Module loaded.
+2024-02-14 03:59:24,941 - elsapy.elssearch - INFO - Module loaded.
+2024-02-14 03:59:25,508 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=heart+attack+AND+AUTH%28Betts%29+AND+PUBYEAR+%3E+2020+
+2024-02-14 03:59:26,076 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-14 04:01:11,041 - elsapy.elsclient - INFO - Module loaded.
+2024-02-14 04:01:11,406 - elsapy.utils - INFO - Module loaded.
+2024-02-14 04:01:11,406 - elsapy.elssearch - INFO - Module loaded.
+2024-02-14 04:01:12,042 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=heart+attack+AND+AUTH%28Betts%29+AND+PUBYEAR+%3E+2020+
+2024-02-14 04:01:12,579 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-14 04:03:57,787 - elsapy.elsclient - INFO - Module loaded.
+2024-02-14 04:03:58,170 - elsapy.utils - INFO - Module loaded.
+2024-02-14 04:03:58,170 - elsapy.elssearch - INFO - Module loaded.
+2024-02-14 04:03:58,787 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=heart+attack+AND+AUTH%28Betts%29+AND+PUBYEAR+%3E+2020+
+2024-02-14 04:03:59,346 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-14 04:10:07,308 - elsapy.elsclient - INFO - Module loaded.
+2024-02-14 04:10:07,687 - elsapy.utils - INFO - Module loaded.
+2024-02-14 04:10:07,687 - elsapy.elssearch - INFO - Module loaded.
+2024-02-14 04:10:08,309 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=heart+attack+AND+AUTH%28Betts%29+AND+PUBYEAR+%3E+2020+
+2024-02-14 04:10:08,846 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-14 05:06:01,963 - elsapy.elsclient - INFO - Module loaded.
+2024-02-14 05:06:02,420 - elsapy.utils - INFO - Module loaded.
+2024-02-14 05:06:02,420 - elsapy.elssearch - INFO - Module loaded.
+2024-02-14 05:06:02,964 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=heart+attack+AND+AUTH%28Betts%29+AND+PUBYEAR+%3E+2020+AND+
+2024-02-14 05:06:30,840 - elsapy.elsclient - INFO - Module loaded.
+2024-02-14 05:06:31,216 - elsapy.utils - INFO - Module loaded.
+2024-02-14 05:06:31,216 - elsapy.elssearch - INFO - Module loaded.
+2024-02-14 05:06:31,840 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=heart+attack+AND+AUTH%28Betts%29+AND+PUBYEAR+%3E+2020+AND+
+2024-02-14 05:07:05,785 - elsapy.elsclient - INFO - Module loaded.
+2024-02-14 05:07:06,159 - elsapy.utils - INFO - Module loaded.
+2024-02-14 05:07:06,160 - elsapy.elssearch - INFO - Module loaded.
+2024-02-14 05:07:06,787 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=heart+attack+AND+AUTH%28Betts%29+AND+PUBYEAR+%3E+2020+AND+
+2024-02-14 05:07:31,613 - elsapy.elsclient - INFO - Module loaded.
+2024-02-14 05:07:32,004 - elsapy.utils - INFO - Module loaded.
+2024-02-14 05:07:32,004 - elsapy.elssearch - INFO - Module loaded.
+2024-02-14 05:07:32,614 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=heart+attack+AND+AUTH%28Betts%29+AND+PUBYEAR+%3E+2020+AND+
+2024-02-14 05:07:52,535 - elsapy.elsclient - INFO - Module loaded.
+2024-02-14 05:07:52,906 - elsapy.utils - INFO - Module loaded.
+2024-02-14 05:07:52,906 - elsapy.elssearch - INFO - Module loaded.
+2024-02-14 05:07:53,536 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=heart+attack+AND+AUTH%28Betts%29+AND+PUBYEAR+%3E+2020+AND+
+2024-02-14 05:09:36,824 - elsapy.elsclient - INFO - Module loaded.
+2024-02-14 05:09:38,181 - elsapy.utils - INFO - Module loaded.
+2024-02-14 05:09:38,181 - elsapy.elssearch - INFO - Module loaded.
+2024-02-14 05:09:38,182 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=heart+attack+AND+AUTH%28Betts%29+AND+PUBYEAR+%3E+2020
+2024-02-14 05:09:38,678 - elsapy.utils - INFO - Converting prism:coverDate

@@ -1,0 +1,54 @@
+2024-02-20 00:53:10,481 - elsapy.elsclient - INFO - Module loaded.
+2024-02-20 00:53:12,297 - elsapy.utils - INFO - Module loaded.
+2024-02-20 00:53:12,297 - elsapy.elssearch - INFO - Module loaded.
+2024-02-20 00:53:12,303 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AFFIL%28%22New+York%22+AND+%22Colorado%22%29+AND+KEY%28%22human%22%29+AND+TITLE%28%22humans%22%29+AND+abs%28%22health%22%29
+2024-02-20 00:53:47,880 - elsapy.elsclient - INFO - Module loaded.
+2024-02-20 00:53:48,366 - elsapy.utils - INFO - Module loaded.
+2024-02-20 00:53:48,367 - elsapy.elssearch - INFO - Module loaded.
+2024-02-20 00:53:48,882 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AFFIL%28%22New+York%22%29+AND+KEY%28%22human%22+AND+%22Animal%22%29+AND+TITLE%28%22humans%22%29+AND+abs%28%22health%22%29
+2024-02-20 00:53:50,266 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-20 00:54:22,857 - elsapy.elsclient - INFO - Module loaded.
+2024-02-20 00:54:23,371 - elsapy.utils - INFO - Module loaded.
+2024-02-20 00:54:23,372 - elsapy.elssearch - INFO - Module loaded.
+2024-02-20 00:54:23,858 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=KEY%28%22human%22+AND+%22Animal%22%29+AND+TITLE%28%22animals%22+AND+%22humans%22%29+AND+abs%28%22health%22%29
+2024-02-20 00:54:24,934 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-20 02:53:01,808 - elsapy.elsclient - INFO - Module loaded.
+2024-02-20 02:53:02,270 - elsapy.utils - INFO - Module loaded.
+2024-02-20 02:53:02,270 - elsapy.elssearch - INFO - Module loaded.
+2024-02-20 02:53:02,808 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=KEY%28%22human%22+AND+%22Animal%22%29+AND+TITLE%28%22animals%22+AND+%22humans%22%29+AND+abs%28%22health%22%29+AND+NOT+KEY%28influenza%29
+2024-02-20 02:53:04,149 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-20 02:53:45,093 - elsapy.elsclient - INFO - Module loaded.
+2024-02-20 02:53:45,549 - elsapy.utils - INFO - Module loaded.
+2024-02-20 02:53:45,549 - elsapy.elssearch - INFO - Module loaded.
+2024-02-20 02:53:46,094 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=KEY%28%22human%22+AND+%22Animal%22%29+AND+TITLE%28%22animals%22+AND+%22humans%22%29+AND+abs%28%22health%22%29+AND+NOT+KEY%28influenza%29+AND+NOT+abs%28ducks%29
+2024-02-20 02:53:46,918 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-20 02:54:22,658 - elsapy.elsclient - INFO - Module loaded.
+2024-02-20 02:54:23,101 - elsapy.utils - INFO - Module loaded.
+2024-02-20 02:54:23,102 - elsapy.elssearch - INFO - Module loaded.
+2024-02-20 02:54:23,659 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=KEY%28%22human%22+AND+%22Animal%22%29+AND+TITLE%28%22animals%22+AND+%22humans%22%29+AND+abs%28%22health%22%29+AND+NOT+%28KEY%28influenza%29+AND+abs%28ducks%29%29
+2024-02-20 02:54:24,465 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-20 03:29:05,100 - elsapy.elsclient - INFO - Module loaded.
+2024-02-20 03:29:05,571 - elsapy.utils - INFO - Module loaded.
+2024-02-20 03:29:05,572 - elsapy.elssearch - INFO - Module loaded.
+2024-02-20 03:29:06,101 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=KEY%28%22human%22+AND+%22Animal%22%29+AND+Key%28%22Kahba%22+OR+%22Scharmuta%22+Or+%22Hoe%22%29
+2024-02-20 03:29:07,093 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-20 03:29:49,187 - elsapy.elsclient - INFO - Module loaded.
+2024-02-20 03:29:49,652 - elsapy.utils - INFO - Module loaded.
+2024-02-20 03:29:49,652 - elsapy.elssearch - INFO - Module loaded.
+2024-02-20 03:29:50,188 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=KEY%28%22human%22+AND+%22Animal%22%29+OR+Key%28%22Kahba%22+OR+%22Scharmuta%22+Or+%22Hoe%22%29
+2024-02-20 03:29:51,565 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-20 04:43:30,535 - elsapy.elsclient - INFO - Module loaded.
+2024-02-20 04:43:31,025 - elsapy.utils - INFO - Module loaded.
+2024-02-20 04:43:31,026 - elsapy.elssearch - INFO - Module loaded.
+2024-02-20 04:43:31,536 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=KEY%28%22human%22%29+AND+KEY%28%22Animal%22%29+OR+Key%28%22Kahba%22+OR+%22Scharmuta%22+Or+%22Hoe%22%29
+2024-02-20 04:43:33,026 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-20 04:45:58,483 - elsapy.elsclient - INFO - Module loaded.
+2024-02-20 04:45:58,930 - elsapy.utils - INFO - Module loaded.
+2024-02-20 04:45:58,930 - elsapy.elssearch - INFO - Module loaded.
+2024-02-20 04:45:59,484 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=KEY%28%22human%22+AND+%22Animal%22%29+OR+Key%28%22Kahba%22+OR+%22Scharmuta%22+Or+%22Hoe%22%29
+2024-02-20 04:46:00,303 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-20 04:48:11,639 - elsapy.elsclient - INFO - Module loaded.
+2024-02-20 04:48:12,083 - elsapy.utils - INFO - Module loaded.
+2024-02-20 04:48:12,084 - elsapy.elssearch - INFO - Module loaded.
+2024-02-20 04:48:12,639 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=KEY%28%22human%22+AND+%22Animal%22%29+OR+%28Key%28%22Kahba%22+OR+%22Scharmuta%22+Or+%22Hoe%22%29%29
+2024-02-20 04:48:13,457 - elsapy.utils - INFO - Converting prism:coverDate

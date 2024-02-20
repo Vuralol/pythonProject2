@@ -1,0 +1,149 @@
+2024-02-06 03:43:48,076 - elsapy.elsclient - INFO - Module loaded.
+2024-02-06 03:45:33,124 - elsapy.elsclient - INFO - Module loaded.
+2024-02-06 03:45:33,525 - elsapy.utils - INFO - Module loaded.
+2024-02-06 03:45:33,525 - elsapy.elssearch - INFO - Module loaded.
+2024-02-06 03:45:34,125 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:45:35,999 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:45:37,918 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=50&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:45:39,807 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=75&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:45:41,881 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=100&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:45:43,737 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=125&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:45:45,638 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=150&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:45:47,614 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=175&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:45:49,595 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=200&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:45:51,736 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=225&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:45:53,687 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=250&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:45:55,622 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=275&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:46:16,679 - elsapy.elsclient - INFO - Module loaded.
+2024-02-06 03:46:17,091 - elsapy.utils - INFO - Module loaded.
+2024-02-06 03:46:17,091 - elsapy.elssearch - INFO - Module loaded.
+2024-02-06 03:46:17,680 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:46:19,320 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:46:21,119 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=50&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:48:18,819 - elsapy.elsclient - INFO - Module loaded.
+2024-02-06 03:48:19,206 - elsapy.utils - INFO - Module loaded.
+2024-02-06 03:48:19,206 - elsapy.elssearch - INFO - Module loaded.
+2024-02-06 03:48:19,820 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:48:21,496 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:48:23,459 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=50&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:48:25,232 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=75&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:48:27,320 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=100&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:48:29,118 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=125&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:48:31,004 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=150&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:48:32,851 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=175&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:48:34,671 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=200&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:48:36,460 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=225&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:48:38,376 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=250&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:48:40,221 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=275&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:48:42,155 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=300&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:48:44,098 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=325&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:48:46,075 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=350&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:48:48,134 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=375&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:48:50,115 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=400&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:48:52,178 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=425&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:48:54,201 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=450&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:48:56,291 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=475&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:48:58,509 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=500&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:49:00,712 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=525&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:49:02,921 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=550&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:49:05,222 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=575&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:49:08,682 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=600&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:49:10,863 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=625&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:49:13,153 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=650&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:49:15,366 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=675&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:49:17,667 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=700&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:49:19,929 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=725&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:49:22,333 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=750&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:49:24,627 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=775&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:49:26,872 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=800&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:49:29,129 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=825&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:49:31,623 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=850&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:49:34,150 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=875&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:49:36,598 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=900&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:49:39,200 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=925&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:49:41,794 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=950&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:49:44,629 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=975&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:49:47,123 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1000&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:49:49,594 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1025&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:49:53,256 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1050&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:49:55,689 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1075&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:49:57,968 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1100&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:50:00,463 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1125&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:50:03,196 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1150&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:50:05,717 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1175&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:50:08,247 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1200&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:50:10,795 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1225&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:50:13,408 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1250&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:50:15,896 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1275&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:50:18,394 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1300&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:50:20,846 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1325&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:50:23,934 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1350&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:50:26,591 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1375&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:50:29,077 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1400&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:50:31,804 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1425&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:50:34,430 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1450&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:50:37,038 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1475&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:50:39,716 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1500&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:50:42,503 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1525&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:50:45,617 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1550&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:50:48,301 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1575&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:50:50,920 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1600&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:50:53,577 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1625&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:50:56,160 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1650&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:50:58,799 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1675&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:51:01,404 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1700&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:51:04,255 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1725&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:51:06,864 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1750&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:51:10,904 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1775&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:51:16,250 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1800&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:51:20,785 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1825&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:51:23,776 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1850&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:51:26,809 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1875&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:51:29,925 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1900&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:51:32,675 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1925&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:51:35,605 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1950&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:51:38,332 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=1975&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:51:41,287 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=2000&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:51:44,044 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=2025&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:51:46,798 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=2050&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:51:49,779 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=2075&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:51:52,632 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=2100&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:51:55,411 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=2125&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:51:58,604 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=2150&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:52:01,853 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=2175&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:52:04,922 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=2200&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:52:07,944 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=2225&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:52:10,746 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=2250&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:52:13,515 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=2275&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:52:16,180 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=2300&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:52:18,757 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=2325&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:52:21,504 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=2350&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:52:24,142 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=2375&count=25&query=TITLE-ABS-KEY-AUTH+%28artificial+AND+intelligence%29+AND+PUBYEAR+%3E++2015
+2024-02-06 03:56:13,394 - elsapy.elsclient - INFO - Module loaded.
+2024-02-06 03:56:13,809 - elsapy.utils - INFO - Module loaded.
+2024-02-06 03:56:13,810 - elsapy.elssearch - INFO - Module loaded.
+2024-02-06 03:56:14,395 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY-AUTH+%28%22global+warming%22+AND+%22David+Betts%22%29
+2024-02-06 03:59:00,156 - elsapy.elsclient - INFO - Module loaded.
+2024-02-06 03:59:00,534 - elsapy.utils - INFO - Module loaded.
+2024-02-06 03:59:00,535 - elsapy.elssearch - INFO - Module loaded.
+2024-02-06 04:04:33,553 - elsapy.elsclient - INFO - Module loaded.
+2024-02-06 04:04:34,044 - elsapy.utils - INFO - Module loaded.
+2024-02-06 04:04:34,044 - elsapy.elssearch - INFO - Module loaded.
+2024-02-06 04:23:34,634 - elsapy.elsclient - INFO - Module loaded.
+2024-02-06 04:23:35,059 - elsapy.utils - INFO - Module loaded.
+2024-02-06 04:23:35,059 - elsapy.elssearch - INFO - Module loaded.
+2024-02-06 04:23:35,636 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY-AUTH+%28%22global+warming%22+AND+%22David+Betts%22%29
+2024-02-06 04:26:21,731 - elsapy.elsclient - INFO - Module loaded.
+2024-02-06 04:26:22,143 - elsapy.utils - INFO - Module loaded.
+2024-02-06 04:26:22,144 - elsapy.elssearch - INFO - Module loaded.
+2024-02-06 04:31:16,109 - elsapy.elsclient - INFO - Module loaded.
+2024-02-06 04:31:16,529 - elsapy.utils - INFO - Module loaded.
+2024-02-06 04:31:16,529 - elsapy.elssearch - INFO - Module loaded.
+2024-02-06 04:33:15,829 - elsapy.elsclient - INFO - Module loaded.
+2024-02-06 04:33:16,210 - elsapy.utils - INFO - Module loaded.
+2024-02-06 04:33:16,210 - elsapy.elssearch - INFO - Module loaded.
+2024-02-06 04:33:16,830 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY-AUTH+%28%22global+warming%22+AND+%22David+Betts%22%29
+2024-02-06 04:34:58,054 - elsapy.elsclient - INFO - Module loaded.
+2024-02-06 04:34:58,427 - elsapy.utils - INFO - Module loaded.
+2024-02-06 04:34:58,427 - elsapy.elssearch - INFO - Module loaded.
+2024-02-06 04:34:59,056 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY-AUTH+%28%22land+degradation%22+AND+%22Amit+Kumar%22%29

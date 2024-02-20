@@ -1,0 +1,13 @@
+2024-02-07 04:54:15,662 - elsapy.elsclient - INFO - Module loaded.
+2024-02-07 04:54:17,283 - elsapy.utils - INFO - Module loaded.
+2024-02-07 04:54:17,283 - elsapy.elssearch - INFO - Module loaded.
+2024-02-07 04:54:17,284 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY-AUTH+%28%22global+warming%22+AND+%22David+Betts%22%29
+2024-02-07 04:56:20,230 - elsapy.elsclient - INFO - Module loaded.
+2024-02-07 04:56:20,654 - elsapy.utils - INFO - Module loaded.
+2024-02-07 04:56:20,654 - elsapy.elssearch - INFO - Module loaded.
+2024-02-07 04:56:57,746 - elsapy.elsclient - INFO - Module loaded.
+2024-02-07 04:56:58,139 - elsapy.utils - INFO - Module loaded.
+2024-02-07 04:56:58,139 - elsapy.elssearch - INFO - Module loaded.
+2024-02-07 04:57:39,457 - elsapy.elsclient - INFO - Module loaded.
+2024-02-07 04:57:39,929 - elsapy.utils - INFO - Module loaded.
+2024-02-07 04:57:39,930 - elsapy.elssearch - INFO - Module loaded.
