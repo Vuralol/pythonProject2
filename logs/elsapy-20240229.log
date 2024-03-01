@@ -1,0 +1,10 @@
+2024-02-29 23:17:41,704 - elsapy.elsclient - INFO - Module loaded.
+2024-02-29 23:17:43,469 - elsapy.utils - INFO - Module loaded.
+2024-02-29 23:17:43,469 - elsapy.elssearch - INFO - Module loaded.
+2024-02-29 23:17:43,475 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22hallo%22+OR+%22nwort%22%29+AND+TITLE-ABS-KEY%28%22hallo%22+OR+%22cracker%22%29+AND+PUBYEAR+%3E+2010+AND+PUBYEAR+%3C+2020
+2024-02-29 23:17:44,895 - elsapy.utils - INFO - Converting prism:coverDate
+2024-02-29 23:39:08,648 - elsapy.elsclient - INFO - Module loaded.
+2024-02-29 23:39:09,219 - elsapy.utils - INFO - Module loaded.
+2024-02-29 23:39:09,219 - elsapy.elssearch - INFO - Module loaded.
+2024-02-29 23:39:17,877 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=TITLE-ABS-KEY%28%22hallo%22+OR+%22cracker%22%29+AND+PUBYEAR+%3E+2010+AND+PUBYEAR+%3C+2020
+2024-02-29 23:39:19,824 - elsapy.utils - INFO - Converting prism:coverDate

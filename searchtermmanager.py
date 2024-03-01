@@ -1,4 +1,4 @@
-import ebscoroute
+import EbscoRoute
 import re
 
 
@@ -34,14 +34,14 @@ class SearchManager:
         numbers = [int(num) for num in user_input.split(',')]
 
         function_mapping = {
-            1: ebscoroute.text_tx,
-            2: ebscoroute.author_au,
-            3: ebscoroute.title_ti,
-            4: ebscoroute.subject_term_su,
-            5: ebscoroute.source_so,
-            6: ebscoroute.abstract_ab,
-            7: ebscoroute.issn_is,
-            8: ebscoroute.isbn_is,
+            1: EbscoRoute.text_tx,
+            2: EbscoRoute.author_au,
+            3: EbscoRoute.title_ti,
+            4: EbscoRoute.subject_term_su,
+            5: EbscoRoute.source_so,
+            6: EbscoRoute.abstract_ab,
+            7: EbscoRoute.issn_is,
+            8: EbscoRoute.isbn_is,
         }
 
         for number in numbers:

@@ -30,6 +30,8 @@ if isinstance(data, list):
         filtered_data['cover_date'] = entry.get('prism:coverDate', '')
         filtered_data['display_date'] = entry.get('prism:coverDisplayDate', '')
         filtered_data['doi'] = entry.get('prism:doi', '')
+        filtered_data['volume'] = entry.get('prism:volume', '')
+        filtered_data['pageRange'] = entry.get('prism:pageRange', '')
 
         if 'affiliation' in entry and isinstance(entry['affiliation'], list) and entry['affiliation']:
             filtered_data['affilname'] = entry['affiliation'][0].get('affilname', '')

@@ -33,6 +33,30 @@ class QueryMaker:
         search_query = " AND ".join(conditions)
         return search_query.strip()
 
+    def construct_search_query_concise(self):
+        conditions =[]
+        print ("This is querymaker.construct_search_query_concise()")
+
+        title_abs_key = input("Enter the title_abs_key (keywords for Title, Abstract and Keywords alltogether) (press Enter to skip): ").strip()
+        if title_abs_key:
+            conditions.append(f'TITLE-ABS-KEY("{title_abs_key}")')
+
+        #Language
+        language = input("Enter language (press Enter to skip): ").strip()
+        if language:
+            conditions.append(f'LANGUAGE("{language}")')
+
+        # PUBYEAR
+        if_pubyear = input("Do you want to enter a date/timeframe? (press Enter to skip at input anything to start entering a date): ").strip()
+        if if_pubyear:
+            start_year = input("Enter the start year you want to search FROM...")
+            end_year = input("Enter the end year you want to search UNTIL...")
+            conditions.append(f'PUBYEAR > {start_year}')
+            conditions.append(f'PUBYEAR < {end_year}')
+
+        search_query = " AND ".join(conditions)
+        return search_query.strip()
+
 if __name__ == "__main__":
     query_maker = QueryMaker()
     search_query = query_maker.construct_search_query()

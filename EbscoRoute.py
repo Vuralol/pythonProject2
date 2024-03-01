@@ -11,7 +11,7 @@ def text_tx():
     print("Function fot TX All Text is called.")
 
     # Hier werden die OR-Queries genommen
-    print("Enter the keywords that CAN to be in the article: Enter 'done' to end ")
+    print("Enter the Keywords you want to search for: Enter 'done' to end ")
     keywordlist_or = collector.termcollector()
 
     #Hier werden die AND-Keywords genommen

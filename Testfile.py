@@ -18,9 +18,7 @@ client = ElsClient(api_key)  # Replace 'your_api_key' with your actual API key
 client.inst_token = api_insttoken  # Replace 'your_insttoken' with your actual insttoken
 
 # Initialize search object and set parameters
-search = ElsSearch('KEY("human" AND "Animal") AND TITLE("animals" AND "humans") AND abs("health") AND NOT (KEY(influenza) AND abs(ducks))', 'scopus')
-
-
+search = ElsSearch('TITLE-ABS-KEY("hallo" OR "nwort") AND TITLE-ABS-KEY("hallo" OR "cracker") AND PUBYEAR > 2010 AND PUBYEAR < 2020', 'scopus')
 
 print(search.query)
 
