@@ -13,7 +13,6 @@ class FileSorter:
             output_path = data['Paths']['output_path']
             output_file_path = data['Paths']['output_file_path']
 
-
        # filepath = r"C:\Users\Vural Zurnaci\Desktop\Dump of json\dump-dummy.JSON"
         # Load the JSON data
         with open(filepath, 'r') as f:

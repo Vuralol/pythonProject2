@@ -3,7 +3,7 @@ from elsapy.elsclient import ElsClient
 from elsapy.elssearch import ElsSearch
 
 def perform_search(search_query):
-    print("this is Testfile_2")
+    print("This is ApiAccess")
 
     with open('config.json', 'r') as f:
         data = json.load(f)
