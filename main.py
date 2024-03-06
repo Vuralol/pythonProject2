@@ -1,6 +1,9 @@
+import json
+import pandas as pd
 import ApiAccess
 from querymaker5 import querymaker5
 from searchtermmanager import SearchManager
+import FileSorter
 from querymaker import QueryMaker  # Assuming your QueryMaker class is in querymaker.py
 
 # Create an instance of QueryMaker and execute it
@@ -14,11 +17,12 @@ search_query2 = query_maker.construct_best_search_query()
 
 ApiAccess.perform_search(search_query2)
 
+sorter = FileSorter.FileSorter()
+
+sorter()
 
 # Continue with the rest of your program
-search_manager = SearchManager()
-search_manager.perform_search()
-search_manager.display_results()
+#search_manager = SearchManager()
+#search_manager.perform_search()
+#search_manager.display_results()
 
-
-# print(querymaker.construct_search_query())
