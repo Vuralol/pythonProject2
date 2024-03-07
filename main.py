@@ -13,6 +13,6 @@ sorter = FileSorter.FileSorter()
 sorter()
 
 # Continue with the rest of your program
-search_manager = SearchManager()
-search_manager.perform_search()
-search_manager.display_results()
+#search_manager = SearchManager()
+#search_manager.perform_search()
+#search_manager.display_results()
